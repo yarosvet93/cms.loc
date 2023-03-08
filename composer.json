@@ -1,0 +1,20 @@
+{
+    "name": "yaros/cms.loc",
+    "autoload": {
+        "psr-4": {
+            "Yaros\\CmsLoc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yarosvet"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    }
+}
